@@ -26,7 +26,7 @@ PhoneNumber int NOT NULL
 ## Preparación Proyecto React
 
 Una vez hallamos configurado todo nuestro proyecto de backend correctamente procedemos a clonar nuestro proyecto de react:
-- git clone ---------------
+- git clone https://github.com/DraCod2002/app_user_react.git
 
 * Lo abrimos en nuestro editor de código de preferencia (Visual Studio Code)
 * para ello desacrgamos la dependencias necesaria para que nuetro proyecto de FrontEnd funcione correctamente ejecuanto el comando: 
