@@ -36,6 +36,6 @@ Una vez hallamos configurado todo nuestro proyecto de backend correctamente proc
 * Este nos mostrara el contenido principal de nuestro proyecto
 ![principal](https://github.com/user-attachments/assets/97620684-aaf5-4178-9c4f-080f63fdced0)
 
-![principal](https://github.com/user-attachments/assets/37c4109d-0620-4479-874e-d4ebbfee5cd1)
-
+## Vista Mobile
+![Group 95](https://github.com/user-attachments/assets/775a992c-8173-4153-8789-28912689a684)
 
