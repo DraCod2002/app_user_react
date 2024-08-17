@@ -34,4 +34,4 @@ Una vez hallamos configurado todo nuestro proyecto de backend correctamente proc
 * Después de ello ejecutamos el comando 
 - npm run dev 
 * Este nos mostrara el contenido principal de nuestro proyecto
-
+![principal](https://github.com/user-attachments/assets/97620684-aaf5-4178-9c4f-080f63fdced0)
